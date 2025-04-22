@@ -1,0 +1,36 @@
+SUCCESS - Job 1 started. 
+/home/ec2-user/environment/PRG302_ASES/Assessment/Backups already exists. 
+/home/ec2-user/environment/PRG302_ASES/Assessment/Backups/2025-04-22 already exists. 
+
+========================================================================================================================================================================================================
+
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/examples/TestFile.txt does exist. 
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/examples/TestFile.txt copied to /home/ec2-user/environment/PRG302_ASES/Assessment/Backups/2025-04-22. 
+
+========================================================================================================================================================================================================
+
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/textfiles does exist. 
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/textfiles copied to /home/ec2-user/environment/PRG302_ASES/Assessment/Backups/2025-04-22. 
+
+========================================================================================================================================================================================================
+
+FAIL - /home/ec2-user/environment/PRG302_ASES/ICTPRG302_Python_features-Files.py does not exist. 
+
+========================================================================================================================================================================================================
+
+FAIL - /home/ec2-user/environment/PRG302_ASES/ICTPRG302_Python_feature-Date_time_stamp.py does not exist. 
+
+========================================================================================================================================================================================================
+
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/Assessment/backup.log does exist. 
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/Assessment/backup.log copied to /home/ec2-user/environment/PRG302_ASES/Assessment/Backups/2025-04-22. 
+
+========================================================================================================================================================================================================
+
+SUCCESS - /home/ec2-user/environment/mkkey.sh does exist. 
+SUCCESS - /home/ec2-user/environment/mkkey.sh copied to /home/ec2-user/environment/PRG302_ASES/Assessment/Backups/2025-04-22. 
+
+========================================================================================================================================================================================================
+
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/Assessment/backup.log does exist. 
+SUCCESS - /home/ec2-user/environment/PRG302_ASES/Assessment/backup.log copied to /home/ec2-user/environment/PRG302_ASES/Assessment/Backups/2025-04-22. 
